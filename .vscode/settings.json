@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "abu2027-unity-simulation.slnx"
+    "dotnet.defaultSolution": "abu2027.slnx"
 }
